@@ -1,0 +1,3245 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "comment" : "Riga vuota di separazione"
+    },
+    "  - Alien symbol" : {
+      "comment" : "Regola indentata: Alien symbol",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Símbolo alienígena"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  - Simbolo alieno"
+          }
+        }
+      }
+    },
+    "  - Color" : {
+      "comment" : "Regola indentata: Color",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Color"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  - Colore"
+          }
+        }
+      }
+    },
+    "  - ECHO receives audio confirmation sound" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- ECHO recibe sonido de confirmación de audio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- ECHO riceve il suono di conferma audio"
+          }
+        }
+      }
+    },
+    "  - LUMO receives audio confirmation sound" : {
+      "comment" : "Regola indentata: LUMO receives audio confirmation sound",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- LUMO recibe sonido de confirmación de audio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- LUMO riceve il suono di conferma audio"
+          }
+        }
+      }
+    },
+    "  - LUMO receives visual  notification" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- LUMO recibe notificación visual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- LUMO riceve una notifica visiva"
+          }
+        }
+      }
+    },
+    "  - Morse code letter" : {
+      "comment" : "Regola indentata: Morse code letter",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Letra de código Morse"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  - Lettera in codice Morse"
+          }
+        }
+      }
+    },
+    "  - Progress tracking for all team members" : {
+      "comment" : "Regola indentata: Progress tracking for all team members",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- Seguimiento del progreso para todos los miembros del equipo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "  - Monitoraggio dei progressi per tutti i membri del team"
+          }
+        }
+      }
+    },
+    "  - VIBE receives visual notification" : {
+      "comment" : "Regola indentata: VIBE receives visual notification",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- VIBE recibe notificación visual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- VIBE riceve una notifica visiva"
+          }
+        }
+      }
+    },
+    "(%lld/%lld)" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/%lld)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/%lld)"
+          }
+        }
+      }
+    },
+    "(%lld/%lld) READY FOR RESTART" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/%lld) LISTO PARA REINICIAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/%lld) PRONTO PER IL RIAVVIO"
+          }
+        }
+      }
+    },
+    "(%lld/3) READY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/3) DISPUESTO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(%lld/3) PRONTO"
+          }
+        }
+      }
+    },
+    "⟆" : {
+      "comment" : "Simbolo a forma di ⟆",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⟆"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⟆"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld/3" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/3"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/3"
+          }
+        }
+      }
+    },
+    "• Access fuse configuration" : {
+      "comment" : "Regola: Access fuse configuration",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Configuración del fusible de acceso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Accedi alla configurazione dei fusibili"
+          }
+        }
+      }
+    },
+    "• Alien disdain" : {
+      "comment" : "Regola: Alien disdain",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Desdén alienígena"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Disprezzo alieno"
+          }
+        }
+      }
+    },
+    "• All fuses placed in correct sequence" : {
+      "comment" : "Regola: All fuses placed in correct sequence",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Todos los fusibles colocados en la secuencia correcta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Tutti i fusibili inseriti nella sequenza corretta"
+          }
+        }
+      }
+    },
+    "• Celebrate your escape from the alien room!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ¡Celebra tu escape de la habitación alienígena!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Festeggia la tua fuga dalla stanza degli alieni!"
+          }
+        }
+      }
+    },
+    "• Communicate to determine correct order" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Comunicarse para determinar el orden correcto"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Comunicare per determinare l'ordine corretto"
+          }
+        }
+      }
+    },
+    "• Complete all 4 fuse placements" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Completar las 4 ubicaciones de fusibles"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Completa tutti e 4 i posizionamenti dei fusibili"
+          }
+        }
+      }
+    },
+    "• Cosmic disappointment" : {
+      "comment" : "Regola: Cosmic disappointment",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Decepción cósmica"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Delusione cosmica"
+          }
+        }
+      }
+    },
+    "• Decodes correct order from sound" : {
+      "comment" : "Regola: Decodes correct order from sound",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Decodifica el orden correcto del sonido"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Decodifica l'ordine corretto dal suono"
+          }
+        }
+      }
+    },
+    "• Device activation (probably)" : {
+      "comment" : "Regola: Device activation (probably)",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Activación del dispositivo (probablemente)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Attivazione del dispositivo (probabilmente)"
+          }
+        }
+      }
+    },
+    "• Door opens when sequence is correct" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• La puerta se abre cuando la secuencia es correcta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• La porta si apre quando la sequenza è corretta"
+          }
+        }
+      }
+    },
+    "• Drags colored fuse to symbol" : {
+      "comment" : "Regola: Drags colored fuse to symbol",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Arrastra el fusible de color al símbolo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Trascina il fusibile colorato sul simbolo"
+          }
+        }
+      }
+    },
+    "• Each contains:" : {
+      "comment" : "Regola: Each contains:",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Cada uno contiene:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Ognuno contiene:"
+          }
+        }
+      }
+    },
+    "• ECHO drags colored fuses to matching symbols" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ECHO arrastra fusibles de colores a los símbolos que coinciden"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• ECHO trascina i fusibili colorati a simboli corrispondenti"
+          }
+        }
+      }
+    },
+    "• ECHO player prepares for fuse insertion" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• El jugador de ECHO se prepara para la inserción del fusible"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Il giocatore ECHO si prepara per l'inserimento del fusibile"
+          }
+        }
+      }
+    },
+    "• Find combinations on last page" : {
+      "comment" : "Regola: Find combinations on last page",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Encuentra combinaciones en la última página"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Trova le combinazioni all'ultima pagina"
+          }
+        }
+      }
+    },
+    "• Follow the sequence determined by team" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Siga la secuencia determinada por el equipo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Segui la sequenza determinata dal team"
+          }
+        }
+      }
+    },
+    "• LUMO decodes Morse code from sounds" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• LUMO decodifica el código Morse de los sonidos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• LUMO decodifica il codice Morse dai suoni"
+          }
+        }
+      }
+    },
+    "• LUMO player listens for audio cues" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• El reproductor LUMO escucha señales de audio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Il lettore LUMO ascolta segnali audio"
+          }
+        }
+      }
+    },
+    "• Matches Morse codes with descriptions" : {
+      "comment" : "Regola: Matches Morse codes with descriptions",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Coincide con los códigos Morse con las descripciones"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Abbina i codici Morse alle descrizioni"
+          }
+        }
+      }
+    },
+    "• Physically inserts fuses" : {
+      "comment" : "Regola: Physically inserts fuses",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Inserta físicamente los fusibles"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Inserisce fisicamente i fusibili"
+          }
+        }
+      }
+    },
+    "• Proper symbol matches" : {
+      "comment" : "Regola: Proper symbol matches",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Coincidencias de símbolos adecuadas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Corrispondenze corrette dei simboli"
+          }
+        }
+      }
+    },
+    "• Prove Earth creatures aren't hopeless" : {
+      "comment" : "Regola: Prove Earth creatures aren't hopeless",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Demostrar que las criaturas de la Tierra no están desesperadas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Dimostra che le creature terrestri non sono senza speranza"
+          }
+        }
+      }
+    },
+    "• Releases to attempt pairing" : {
+      "comment" : "Regola: Releases to attempt pairing",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Liberaciones para intentar emparejar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Rilascia per provare la combinazione"
+          }
+        }
+      }
+    },
+    "• Timeout" : {
+      "comment" : "Regola: Timeout",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Tiempo de espera"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Tempo scaduto"
+          }
+        }
+      }
+    },
+    "• VIBE finds symbol combinations in manual" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• VIBE encuentra combinaciones de símbolos en el manual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• VIBE trova combinazioni di simboli nel manuale"
+          }
+        }
+      }
+    },
+    "• VIBE player opens the manual" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• El reproductor VIBE abre el manual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Il lettore VIBE apre il manuale"
+          }
+        }
+      }
+    },
+    "• When ECHO places battery correctly:" : {
+      "comment" : "Regola: When ECHO places battery correctly:",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Cuando ECHO coloca la batería correctamente:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Quando ECHO posiziona correttamente la batteria:"
+          }
+        }
+      }
+    },
+    "• When VIBE places battery correctly:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Cuando VIBE coloca la batería correctamente:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Quando VIBE posiziona correttamente la batteria:"
+          }
+        }
+      }
+    },
+    "• Wrong sequence or pairings" : {
+      "comment" : "Regola: Wrong sequence or pairings",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Secuencia o emparejamientos incorrectos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "• Sequenza o abbinamenti sbagliati"
+          }
+        }
+      }
+    },
+    "▣" : {
+      "comment" : "Simbolo a forma di ▣",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "▣"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "▣"
+          }
+        }
+      }
+    },
+    "◍" : {
+      "comment" : "Simbolo a forma di ◍",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "◍"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "◍"
+          }
+        }
+      }
+    },
+    "◼" : {
+      "comment" : "Simbolo a forma di ◼",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "◼"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "◼"
+          }
+        }
+      }
+    },
+    "0" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "100" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "100"
+          }
+        }
+      }
+    },
+    "ACCURACY:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRECISIÓN:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRECISIONE:"
+          }
+        }
+      }
+    },
+    "ANALYSE THE SOUNDS AND TELL ECHO THE CORRECT ORDER" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANALIZA LOS SONIDOS Y DILE A ECHO EL ORDEN CORRECTO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANALIZZA I SUONI E DÌ A ECO L'ORDINE CORRETTO"
+          }
+        }
+      }
+    },
+    "Are you sure you want to exit the game?\nThis will end the game for all players." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Estás seguro de que quieres salir del juego? Esto terminará el juego para todos los jugadores."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei sicuro di voler uscire dal gioco? Questo porrà fine al gioco per tutti i giocatori."
+          }
+        }
+      }
+    },
+    "AUDIO" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AUDIO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AUDIO"
+          }
+        }
+      }
+    },
+    "AVG ERRORS:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERRORES DE LA MEDIA:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MEDIA ERRORI:"
+          }
+        }
+      }
+    },
+    "AVG TIME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TIEMPO PROMEDIO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TEMPO MEDIO"
+          }
+        }
+      }
+    },
+    "BACK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARTE DE ATRAS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INDIETRO"
+          }
+        }
+      }
+    },
+    "BACKGROUND MUSIC" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MÚSICA DE FONDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUSICA DI SOTTOFONDO"
+          }
+        }
+      }
+    },
+    "Background music plays in main menu only" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La música de fondo se reproduce solo en el menú principal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La musica di sottofondo viene riprodotta solo nel menu principale"
+          }
+        }
+      }
+    },
+    "BEST TIME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MEJOR MOMENTO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TEMPO MIGLIORE"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANNULLA"
+          }
+        }
+      }
+    },
+    "CANCEL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CANCELAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANNULLA"
+          }
+        }
+      }
+    },
+    "CANCEL RESTART" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CANCELAR REINICIO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANNULLA RESTART"
+          }
+        }
+      }
+    },
+    "CHALLENGE #1" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETO #1"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SFIDA #1"
+          }
+        }
+      }
+    },
+    "CHANGE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ALTERACIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CAMBIA"
+          }
+        }
+      }
+    },
+    "CHOOSE YOUR CHARACTER" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ELIGE TU PERSONAJE"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SCEGLI IL TUO PERSONAGGIO"
+          }
+        }
+      }
+    },
+    "CLASSIFICATION: ⟆⟟⋉⧫⟟⋏⏃⍀⋔ ⟒⧫⍜⋏⁅⋔⟟⋏⟒⍀" : {
+      "comment" : "Regola: CLASSIFICATION con simboli Zorboniani",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CLASIFICACIÓN: ⟆⟟⋉⧫⟟⋏⏃⍀⋔ ⟒⧫⍜⋏⁅⋔⟟⋏⟒⍀"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CLASSIFICAZIONE: ⟆⟟⋉⧫⟟⋏⏃⍀⋔ ⟒⧫⍜⋏⁅⋔⟟⋏⟒⍀"
+          }
+        }
+      }
+    },
+    "CLASSIFIED DOCUMENT v3.2.1" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DOCUMENTO CLASIFICADO v3.2.1"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DOCUMENTO CLASSIFICATO v3.2.1"
+          }
+        }
+      }
+    },
+    "CLEAR ALL DATA" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BORRAR TODOS LOS DATOS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CANCELLA TUTTI I DATI"
+          }
+        }
+      }
+    },
+    "COMING SOON" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRÓXIMAMENTE"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN ARRIVO"
+          }
+        }
+      }
+    },
+    "CONFIRM" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONFIRMAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONFERMA"
+          }
+        }
+      }
+    },
+    "CONNECTING TO GAME CENTER..." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONECTANDO AL GAME CENTER..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONNESSIONE A GAME CENTER..."
+          }
+        }
+      }
+    },
+    "Continue Without Voice" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar sin voz"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONTINUA SENZA VOICE"
+          }
+        }
+      }
+    },
+    "CURRENT GAME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGO ACTUAL"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GIOCO ATTUALE"
+          }
+        }
+      }
+    },
+    "DETAILED STATS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESTADÍSTICAS DETALLADAS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STATISTICHE DETTAGLIATE"
+          }
+        }
+      }
+    },
+    "DIFFICULTY:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIFICULTAD:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIFFICOLTÀ:"
+          }
+        }
+      }
+    },
+    "DIFFICULTY: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIFICULTAD: %@"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIFFICOLTÀ: %@"
+          }
+        }
+      }
+    },
+    "EASY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FÁCIL"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FACILE"
+          }
+        }
+      }
+    },
+    "ECHO DIRECTIVES:" : {
+      "comment" : "Regola: ECHO DIRECTIVES",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIRECTIVAS DE ECO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIRETTIVE ECO:"
+          }
+        }
+      }
+    },
+    "ECHO GAMES:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGOS DE ECO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARTITE DA ECO:"
+          }
+        }
+      }
+    },
+    "ECHO ROLE:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROL DE ECO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RUOLO DI ECO:"
+          }
+        }
+      }
+    },
+    "EMPTY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VACÍO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VUOTO"
+          }
+        }
+      }
+    },
+    "ERROR" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERROR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERRORE"
+          }
+        }
+      }
+    },
+    "ERRORS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERRORES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ERRORI"
+          }
+        }
+      }
+    },
+    "Exit" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salida"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci"
+          }
+        }
+      }
+    },
+    "EXIT" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALIDA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESCI"
+          }
+        }
+      }
+    },
+    "Exit Game" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir del juego"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esci dalla Partita"
+          }
+        }
+      }
+    },
+    "EXIT GAME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALIR DEL JUEGO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESCI DALLA PARTITA"
+          }
+        }
+      }
+    },
+    "EXTREME difficulty is only available in the PRO version. Upgrade to unlock the ultimate 5-minute challenge!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La dificultad EXTREMA solo está disponible en la versión PRO. ¡Actualiza para desbloquear el desafío definitivo de 5 minutos!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La difficoltà ESTREMA è disponibile solo nella versione PRO. Aggiorna per sbloccare l'ultima sfida di 5 minuti!"
+          }
+        }
+      }
+    },
+    "FAILURE CONDITIONS:" : {
+      "comment" : "Regola: FAILURE CONDITIONS",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONDICIONES DE FALLO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONDIZIONI DI GUASTO:"
+          }
+        }
+      }
+    },
+    "FASTEST WIN:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GANANCIA MÁS RÁPIDA:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VITTORIA PIÙ VELOCE:"
+          }
+        }
+      }
+    },
+    "FEEDBACK SYSTEM:" : {
+      "comment" : "Regola: FEEDBACK SYSTEM",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SISTEMA DE COMENTARIOS:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SISTEMA DI RISPOSTA:"
+          }
+        }
+      }
+    },
+    "FIXED SEQUENCE READY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SECUENCIA FIJA LISTA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SEQUENZA FISSA PRONTA"
+          }
+        }
+      }
+    },
+    "Follow these simple steps to complete your mission and escape the room." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sigue estos sencillos pasos para completar tu misión y escapar de la habitación."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segui questi semplici passaggi per completare la tua missione e fuggire dalla stanza."
+          }
+        }
+      }
+    },
+    "FUSE MATRIX" : {
+      "comment" : "Sottotitolo: FUSE MATRIX",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MATRIZ DE FUSIBLES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MATRICE FUSIBILI"
+          }
+        }
+      }
+    },
+    "GAMES" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGOS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARTITE"
+          }
+        }
+      }
+    },
+    "GET PRO" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONSIGUE PROFESIONAL"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIVENTA PRO"
+          }
+        }
+      }
+    },
+    "GOT IT" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ENTENDIDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CAPITO"
+          }
+        }
+      }
+    },
+    "GREETINGS, BIPEDAL CREATURE!\nCongratulations on finding this precious document! Your tiny grasping appendages should be sufficient to complete this operation... maybe.\n\nWARNING: If you're reading this, it means our security system has failed miserably. We also hope you have friends, because you'll need them." : {
+      "comment" : "Descrizione introduttiva del modulo Brutalist",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡SALUDOS, CRIATURA BÍPEDA! ¡Felicidades por encontrar este precioso documento! Sus pequeños apéndices de agarre deberían ser suficientes para completar esta operación... tal vez. ADVERTENCIA: Si estás leyendo esto, significa que nuestro sistema de seguridad ha fallado miserablemente. También esperamos que tengas amigos, porque los necesitarás."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALUTI, CREATURA BIPEDE!\nCongratulazioni per aver trovato questo prezioso documento! Le tue minuscole appendici dovrebbero essere sufficienti per completare questa operazione... forse.\n\nATTENZIONE: se stai leggendo questo messaggio, significa che il nostro sistema di sicurezza ha fallito miseramente. Speriamo anche che tu abbia degli amici, perché ne avrai bisogno."
+          }
+        }
+      }
+    },
+    "Guide for Primitive Terrestrial Life Forms" : {
+      "comment" : "Regola: Guida per forme di vita primitive",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guía para formas de vida terrestres primitivas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guida per forme di vita terrestri primitive"
+          }
+        }
+      }
+    },
+    "HAPTIC FEEDBACK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RETROALIMENTACIÓN HÁPTICA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FEEDBACK TATTILE"
+          }
+        }
+      }
+    },
+    "HARD" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DURO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIFFICILE"
+          }
+        }
+      }
+    },
+    "HOW TO PLAY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CÓMO JUGAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COME GIOCARE"
+          }
+        }
+      }
+    },
+    "INTRODUCTION" : {
+      "comment" : "Titolo: INTRODUCTION",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTRODUCCIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INTRODUZIONE"
+          }
+        }
+      }
+    },
+    "INVITE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INVITAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INVITA"
+          }
+        }
+      }
+    },
+    "LISTEN CAREFULLY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESCUCHA CON ATENCIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ASCOLTA ATTENTAMENTE"
+          }
+        }
+      }
+    },
+    "LIVE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EN VIVO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LIVE"
+          }
+        }
+      }
+    },
+    "LOBBY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALA DE ESPERA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOBBY"
+          }
+        }
+      }
+    },
+    "LOST" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PERDIDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SCONFITTA"
+          }
+        }
+      }
+    },
+    "LUMO GAMES:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGOS DE LUMO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARTITE DA LUMO:"
+          }
+        }
+      }
+    },
+    "LUMO ROLE:" : {
+      "comment" : "Regola: LUMO ROLE",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROL DE LUMO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RUOLO DI LUMO:"
+          }
+        }
+      }
+    },
+    "MASTER VOLUME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOLUMEN MAESTRO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOLUME PRINCIPALE"
+          }
+        }
+      }
+    },
+    "MISSION PARAMETERS" : {
+      "comment" : "Sottotitolo: MISSION PARAMETERS",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARÁMETROS DE LA MISIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARAMETRI DELLA MISSIONE"
+          }
+        }
+      }
+    },
+    "MUSIC DISABLED" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MÚSICA DISCAPACITADA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUSICA DISABILITA"
+          }
+        }
+      }
+    },
+    "MUSIC ENABLED" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MÚSICA HABILITADA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUSICA ABILITATA"
+          }
+        }
+      }
+    },
+    "MUSIC VOLUME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOLUMEN DE LA MÚSICA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOLUME DELLA MUSICA"
+          }
+        }
+      }
+    },
+    "MUTE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MUTO"
+          }
+        }
+      }
+    },
+    "No background music will play" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se reproducirá música de fondo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non verrà riprodotta musica di sottofondo"
+          }
+        }
+      }
+    },
+    "NO CHARACTER" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SIN CARÁCTER"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NESSUNO"
+          }
+        }
+      }
+    },
+    "NORMAL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NORMAL"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NORMALE"
+          }
+        }
+      }
+    },
+    "OBJECTIVE" : {
+      "comment" : "Titolo: OBJECTIVE",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FINALIDAD"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OBIETTIVO"
+          }
+        }
+      }
+    },
+    "OFF" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OFF"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SPENTO"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "ON" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ON"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ACCESO"
+          }
+        }
+      }
+    },
+    "Open the door of the room you are trapped in by inserting four fuses into the corresponding slots following a precise order." : {
+      "comment" : "Descrizione: obiettivo della missione",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abra la puerta de la habitación en la que está atrapado insertando cuatro fusibles en las ranuras correspondientes siguiendo un orden preciso."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprite la porta della stanza in cui siete intrappolati inserendo quattro fusibili nelle feritoie corrispondenti seguendo un ordine preciso."
+          }
+        }
+      }
+    },
+    "OPERATIONAL MANUAL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MANUAL OPERATIVO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MANUALE OPERATIVO"
+          }
+        }
+      }
+    },
+    "PAIRINGS" : {
+      "comment" : "Titolo: PAIRINGS",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EMPAREJAMIENTO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ABBINAMENTI"
+          }
+        }
+      }
+    },
+    "PERFORMANCE METRICS" : {
+      "comment" : "Sottotitolo: PERFORMANCE METRICS",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MÉTRICAS DE RENDIMIENTO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "METRICHE DELLE PRESTAZIONI"
+          }
+        }
+      }
+    },
+    "PLAY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AVVIA"
+          }
+        }
+      }
+    },
+    "PLAY AGAIN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUGAR DE NUEVO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GIOCA DI NUOVO"
+          }
+        }
+      }
+    },
+    "Player Left Game" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El jugador dejó el juego"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giocatore ha lasciato la partita"
+          }
+        }
+      }
+    },
+    "PLAYERS: %lld/%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PLAYERS: %1$lld/%2$lld"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUGADOS: %1$lld/%2$lld"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GIOCATORI: %1$lld/%2$lld"
+          }
+        }
+      }
+    },
+    "PLAYING" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "JUEGO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GIOCANDO"
+          }
+        }
+      }
+    },
+    "Playing solo? Restart is instant!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Jugando solo? ¡Reiniciar es instantáneo!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giochi da solo? Il riavvio è istantaneo!"
+          }
+        }
+      }
+    },
+    "Plenty of time to coordinate and plan" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mucho tiempo para coordinar y planificar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un sacco di tempo per coordinare e pianificare"
+          }
+        }
+      }
+    },
+    "PRO VERSION REQUIRED" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VERSIÓN PRO REQUERIDA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VERSIONE PRO RICHIESTA"
+          }
+        }
+      }
+    },
+    "READ THE MANUAL" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LEER EL MANUAL"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LEGGI IL MANUALE"
+          }
+        }
+      }
+    },
+    "READY FOR GAME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LISTO PARA EL JUEGO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRONTO PER GIOCARE"
+          }
+        }
+      }
+    },
+    "REPAIR THE ELECTRICAL SYSTEM TO ESCAPE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REPARAR EL SISTEMA ELÉCTRICO PARA ESCAPAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RIPARARE L'IMPIANTO ELETTRICO PER SCAPPARE"
+          }
+        }
+      }
+    },
+    "RESET" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VOLVER A PONER"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RICOMINCIA"
+          }
+        }
+      }
+    },
+    "RESET AUDIO" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESTABLECER AUDIO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RIPRISTINO AUDIO"
+          }
+        }
+      }
+    },
+    "RESET STATISTICS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESTABLECER ESTADÍSTICAS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RIPRISTINO STATISTICHE"
+          }
+        }
+      }
+    },
+    "RESTORE DEFAULTS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RESTAURAR VALORES PREDETERMINADOS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RIPRISTINA IMPOSTAZIONI PREDEFINITE"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volver a intentar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riprova"
+          }
+        }
+      }
+    },
+    "ROLE:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FUNCIÓN:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RUOLO:"
+          }
+        }
+      }
+    },
+    "SCORING" : {
+      "comment" : "Titolo: SCORING",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PUNTATIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PUNTEGGIO"
+          }
+        }
+      }
+    },
+    "SECTIONS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SECCIONES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SEZIONI"
+          }
+        }
+      }
+    },
+    "SELECT" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELECCIONAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELEZIONA"
+          }
+        }
+      }
+    },
+    "SELECT DIFFICULTY" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELECCIONE DIFICULTAD"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELEZIONA DIFFICOLTÀ"
+          }
+        }
+      }
+    },
+    "SELECTED" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELECCIONADO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SELEZIONATO"
+          }
+        }
+      }
+    },
+    "SETTING UP\nVOICE CHANNEL..." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONFIGURANDO EL CANAL DE VOZ..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IMPOSTAZIONE CANALE VOCALE..."
+          }
+        }
+      }
+    },
+    "SETTINGS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AJUSTES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IMPOSTAZIONI"
+          }
+        }
+      }
+    },
+    "SKIP" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PASO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SALTA"
+          }
+        }
+      }
+    },
+    "SLOT" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TRAGAPERRAS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SLOT"
+          }
+        }
+      }
+    },
+    "SOUND EFFECTS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFECTOS SONOROS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EFFETTI SONORI"
+          }
+        }
+      }
+    },
+    "SOUND SEQUENCE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SECUENCIA DE SONIDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SEQUENZA SONORA"
+          }
+        }
+      }
+    },
+    "Standard challenge for experienced teams" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desafío estándar para equipos experimentados"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sfida standard per team esperti"
+          }
+        }
+      }
+    },
+    "START GAME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EMPIEZA A JUGAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "INIZIA A GIOCARE"
+          }
+        }
+      }
+    },
+    "STATISTICS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESTADISTICA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STATISTICHE"
+          }
+        }
+      }
+    },
+    "STATUS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESTATUS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "STATO"
+          }
+        }
+      }
+    },
+    "STEP 1: TEAM COORDINATION" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PASO 1: COORDINACIÓN DEL EQUIPO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FASE 1: COORDINAMENTO DEL TEAM"
+          }
+        }
+      }
+    },
+    "STEP 2: DECODE THE SEQUENCE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PASO 2: DECODIFICAR LA SECUENCIA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FASE 2: DECODIFICA LA SEQUENZA"
+          }
+        }
+      }
+    },
+    "STEP 3: EXECUTE THE MISSION" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PASO 3: EJECUTAR LA MISIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FASE 3: ESEGUIRE LA MISSIONE"
+          }
+        }
+      }
+    },
+    "STEP 4: SUCCESS!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PASO 4: ¡EL ÉXITO!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FASE 4: SUCCESSO!"
+          }
+        }
+      }
+    },
+    "STEP-BY-STEP GUIDE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GUÍA PASO A PASO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GUIDA PASSO PASSO"
+          }
+        }
+      }
+    },
+    "STOP" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARADA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FERMA"
+          }
+        }
+      }
+    },
+    "SUCCESS CONDITIONS:" : {
+      "comment" : "Regola: SUCCESS CONDITIONS",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONDICIONES DE ÉXITO:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CONDIZIONI DI SUCCESSO:"
+          }
+        }
+      }
+    },
+    "SWIPE OR TAP TO NAVIGATE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DESLIZA O TOCA PARA NAVEGAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SCORRI O TOCCA PER NAVIGARE"
+          }
+        }
+      }
+    },
+    "TAKEN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TOMADO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PRESO"
+          }
+        }
+      }
+    },
+    "TALK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHARLA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARLA"
+          }
+        }
+      }
+    },
+    "TAP TO DISABLE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TOQUE PARA DESACTIVAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMI PER DISBILITARE"
+          }
+        }
+      }
+    },
+    "TAP TO ENABLE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TOQUE PARA HABILITAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PREMI PER ABILITARE"
+          }
+        }
+      }
+    },
+    "TAP TO PLAY/PAUSE SEQUENCE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TOCA PARA INICIAR/PAUSAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TOCCA PER AVVIARE/FERMARE"
+          }
+        }
+      }
+    },
+    "THE FUSES HAVE BLOWN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LOS FUSIBLES SE HAN FUNDIDO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I FUSIBILI SONO BLOCCATI"
+          }
+        }
+      }
+    },
+    "This game is still under development.\nStay tuned for future updates!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este juego todavía está en desarrollo. ¡Estén atentos a futuras actualizaciones!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo gioco è ancora in fase di sviluppo.\nRestate sintonizzati per futuri aggiornamenti!"
+          }
+        }
+      }
+    },
+    "TIME" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TIEMPO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TEMPO"
+          }
+        }
+      }
+    },
+    "TIME LIMIT: 10 Earth minutes\nERROR TOLERANCE: Maximum 2 mistakes allowed" : {
+      "comment" : "Descrizione: TIME LIMIT e ERROR TOLERANCE",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LÍMITE DE TIEMPO: 10 minutos terrestres TOLERANCIA A ERRORES: Máximo 2 errores permitidos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LIMITE DI TEMPO: 10 minuti terrestri TOLLERANZA DI ERRORE: massimo 2 errori consentiti"
+          }
+        }
+      }
+    },
+    "Time pressure increases the challenge" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La presión del tiempo aumenta el desafío"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pressione del tempo aumenta la sfida"
+          }
+        }
+      }
+    },
+    "TO GET THE CORRECT ORDER OF THE FUSES" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PARA OBTENER EL ORDEN CORRECTO DE LOS FUSIBLES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PER OTTENERE L'ORDINE CORRETTO DEI FUSIBILI"
+          }
+        }
+      }
+    },
+    "UNDERSTAND THE RULES AND COMMUNICATE THEM TO YOUR PARTNERS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COMPRENDA LAS REGLAS Y COMUNÍCELAS A SUS COMPAÑEROS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COMPRENDI LE REGOLE E COMUNICALE AI TUOI PARTNER"
+          }
+        }
+      }
+    },
+    "UNMUTE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ACTIVAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RIATTIVA VOCE"
+          }
+        }
+      }
+    },
+    "VIBE DIRECTIVES:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIRECTIVAS DE VIBE:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DIRETTIVE DI VIBRAZIONE:"
+          }
+        }
+      }
+    },
+    "VIBE ROLE:" : {
+      "comment" : "Regola: VIBE ROLE",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROL DE VIBE:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RUOLO DI VIBE:"
+          }
+        }
+      }
+    },
+    "VIBRATION" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIBRACIÓN"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VIBRAZIONE"
+          }
+        }
+      }
+    },
+    "VOICE CHAT" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHAT DE VOZ"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CHAT VOCALE"
+          }
+        }
+      }
+    },
+    "Voice Connected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voz conectada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canale Vocale Connesso"
+          }
+        }
+      }
+    },
+    "Voice Connection Error" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de conexión por voz"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Errore di connessione vocale"
+          }
+        }
+      }
+    },
+    "Voice Disconnected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voz desconectada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canale Vocale Disconnesso"
+          }
+        }
+      }
+    },
+    "Voice Muted" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voz silenciada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canale Vocale Mutato"
+          }
+        }
+      }
+    },
+    "WAIT FOR VIBE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERA VIBE"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ASPETTA VIBE"
+          }
+        }
+      }
+    },
+    "WAITING FOR\nVOICE CHANNEL..." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERANDO EL CANAL DE VOZ..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN ATTESA DI CANALE VOCALE..."
+          }
+        }
+      }
+    },
+    "WAITING FOR ALL PLAYERS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERANDO A TODOS LOS JUGADORES"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ASPETTANDO I GIOCATORI"
+          }
+        }
+      }
+    },
+    "WAITING FOR OTHERS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERANDO A OTROS"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ASPETTANDO GLI ALTRI"
+          }
+        }
+      }
+    },
+    "WAITING FOR ROLE ASSIGNMENT..." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERANDO LA ASIGNACIÓN DE ROLES..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN ATTESA DI ASSEGNAZIONE RUOLO..."
+          }
+        }
+      }
+    },
+    "WAITING..." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ESPERANDO..."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN ATTESA..."
+          }
+        }
+      }
+    },
+    "WIN RATE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TASA DE GANAR"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TASSO DI VINCITA"
+          }
+        }
+      }
+    },
+    "WON" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VICTORIA"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VITTORIA"
+          }
+        }
+      }
+    },
+    "WORK IN PROGRESS" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "TRABAJO EN CURSO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IN FASE DI SVILUPPO"
+          }
+        }
+      }
+    },
+    "X" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "X"
+          }
+        }
+      }
+    },
+    "ZORBONIAN" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZORBONIANO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZORBONIANO"
+          }
+        }
+      }
+    },
+    "ZORBONIAN OPERATIONAL MANUAL" : {
+      "comment" : "Sottotitolo: ZORBONIAN OPERATIONAL MANUAL",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZORBONIAN MANUAL OPERATIVO"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MANUALE OPERATIVO ZORBONIANO"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
